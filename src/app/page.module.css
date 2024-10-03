@@ -23,7 +23,7 @@
     --gray-alpha-100: rgba(var(--gray-rgb), 0.06);
 
     --button-primary-hover: #ccc;
-    --button-secondary-hover: #1a1a1a;
+    --button-secondary-hover: #b6afaf;
   }
 }
 
@@ -50,7 +50,7 @@
 
 .main code {
   font-family: inherit;
-  background: var(--gray-alpha-100);
+  /* background: var(--gray-alpha-100); */
   padding: 2px 4px;
   border-radius: 4px;
   font-weight: 600;
